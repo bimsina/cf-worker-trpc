@@ -1,7 +1,5 @@
-# Turborepo starter template with CF Workers and Vite React
+Accompanying article:
 
-- To use this template either clone it or run the following command
+https://www.bibek-timsina.com.np/blog/trpc-vite-cf-workers/
 
-```bash
-pnpm dlx create-turbo@latest --example https://github.com/bimsina/vite-react-cf-starter
-```
+![trpc](https://github.com/bimsina/cf-worker-trpc/assets/29589003/ec37eb8c-bb2a-40bf-b81b-95d3adde1712)
